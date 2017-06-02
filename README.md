@@ -1,6 +1,7 @@
 # Login
 > Simple Login and Logout Demo Project
-*Steps
+
+*Steps*
 
 1. Copy all the files in your localhost.
 2. Import database to your server.
